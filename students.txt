@@ -1,0 +1,5 @@
+John Doe,20,A
+Jane Smith,22,B
+Bob Johnson,19,C
+Alice Williams,21,A
+Charlie Brown,18,B
